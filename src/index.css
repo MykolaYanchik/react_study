@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: #2f4858;
+}
+
+input {
+  outline: none;
+}
+
+button:active,
+button:focus {
+  outline: none;
+}
+
+select {
+  outline: none;
+}

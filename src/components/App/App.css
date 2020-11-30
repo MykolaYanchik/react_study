@@ -1,0 +1,10 @@
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+  padding-top: 20px;
+  margin-top: 20px;
+  border: 2px solid #cb3e59;
+  border-radius: 15px;
+  background: #e68359;
+  padding: 30px;
+}

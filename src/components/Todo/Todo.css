@@ -1,0 +1,40 @@
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid gainsboro;
+  border-radius: 12px;
+  background: whitesmoke;
+}
+
+.input_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 140px;
+}
+
+.del {
+  height: 30px;
+  width: 60px;
+  border: none;
+  border-radius: 12px;
+  background: #e49a7b;
+  cursor: pointer;
+}
+
+.complete {
+  height: 30px;
+  width: 70px;
+  border: none;
+  border-radius: 12px;
+  background: #e49a7b;
+  cursor: pointer;
+}
+
+.done {
+  text-decoration: line-through;
+  color: lightslategray;
+}

@@ -1,0 +1,32 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.input {
+  height: 30px;
+  width: 300px;
+  border: none;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.btn {
+  height: 30px;
+  width: 50px;
+  border: none;
+  border-radius: 12px;
+  background: white;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.select {
+  height: 30px;
+  width: 120px;
+  border: none;
+  border-radius: 12px;
+  padding-left: 5px;
+}
